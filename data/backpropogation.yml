@@ -1,0 +1,13 @@
+---
+lexicon:
+  title: Backpropagation
+  description: Backpropagation is a method used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network. Backpropagation is shorthand for "the backward propagation of errors," since an error is computed at the output and distributed backwards throughout the network’s layers. It is commonly used to train deep neural networks.
+  links:
+    - https://en.wikipedia.org/wiki/Backpropagation
+  tags:
+    - Algorithms
+    - Artificial Neural Networks
+  seealso:
+    - Automatic Differentiation
+    - Gradient Descent
+  abbreviation: BP
