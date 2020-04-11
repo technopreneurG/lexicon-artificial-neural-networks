@@ -1,5 +1,6 @@
 
 
+
 ## **ANN**
 *(Artificial neural networks)*
 
@@ -48,6 +49,7 @@
 * <http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/>
 
 * Tags: Algorithms, Computational Statistics
+
 
 </br>
 </br>
